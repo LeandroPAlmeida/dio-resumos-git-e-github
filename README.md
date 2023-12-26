@@ -12,5 +12,5 @@ Repositório para armazenar resumos
 
 
 ``` 
-git init
+git init 
 ```
