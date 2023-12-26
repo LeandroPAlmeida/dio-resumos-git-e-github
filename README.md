@@ -7,9 +7,13 @@ Repositório para armazenar resumos
 
 ## 📚 Documentação
 - GitHub
-| Aulas | Resumos |
-|-------| --------|
 
+## 🖥 Resumos das Aulas
+
+| Aulas | Resumos |
+|-------|---------|
+| Aula 1 | [Resumo]() |
+| Aula 2 | [Resumo]() |
 
 ``` 
 git init 
